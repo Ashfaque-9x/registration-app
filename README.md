@@ -1,2 +1,2 @@
 registration-app
-Test1
+Test2
